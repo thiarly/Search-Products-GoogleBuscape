@@ -14,9 +14,9 @@ Google Chrome instalado
 ## Instalação
 
 Clone o repositório para a sua máquina local usando o seguinte comando:
-bash
-Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+![Screenshot 2023-04-26 at 16 20 19](https://user-images.githubusercontent.com/13594903/234680701-7f1a5bb2-08a6-4856-b14e-5c54ec88d6bd.png)
+
+
 Instale as dependências usando o seguinte comando:
 Copy code
 pip install -r requirements.txt
