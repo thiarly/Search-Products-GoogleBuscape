@@ -23,12 +23,12 @@ Este projeto foi desenvolvido como parte do curso de Automação Web do Programa
 
 ## Executando o projeto
 
-1. Abra o arquivo buscas.xlsx na pasta raiz do projeto e preencha as informações das buscas que deseja fazer.
+1. Abra o arquivo **buscas.xlsx** na pasta raiz do projeto e preencha as informações das buscas que deseja fazer.
 
 2. Abra o terminal na pasta raiz do projeto e execute o seguinte comando:
 ![Screenshot 2023-04-26 at 16 25 31](https://user-images.githubusercontent.com/13594903/234681820-a7be97c7-cc09-485d-a22d-fc4d1a3f0b83.png)
 
-3. O navegador Google Chrome será aberto automaticamente e as buscas serão realizadas nos sites Google Shopping e Buscapé. Os resultados serão salvos em um arquivo PYofertas.xlsx na pasta Projeto 2 - Google Shopping e Buscape.
+3. O navegador Google Chrome será aberto automaticamente e as buscas serão realizadas nos sites Google Shopping e Buscapé. Os resultados serão salvos em um arquivo **PYofertas.xlsx** na pasta Projeto 2 - Google Shopping e Buscape.
 
 4. Se houverem resultados, um e-mail será enviado para o endereço de e-mail configurado no código com a tabela de ofertas encontradas.
 
