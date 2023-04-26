@@ -6,10 +6,10 @@ Este projeto foi desenvolvido como parte do curso de Automação Web do Programa
 
 ## Requisitos
 
-Python 3
-Selenium
-Pandas
-Google Chrome instalado
+* Python 3
+* Selenium
+* Pandas
+* Google Chrome instalado
 
 ## Instalação
 
