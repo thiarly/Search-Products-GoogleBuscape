@@ -1,4 +1,4 @@
-# Search-Products-GoogleBuscape
+# Search-Products-GoogleBuscape :mag:
 
 # Projeto de Automação Web - Google Shopping e Buscapé
 
