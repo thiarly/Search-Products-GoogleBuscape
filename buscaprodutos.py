@@ -20,7 +20,7 @@ nav = webdriver.Chrome(executable_path='/Users/thiarly/opt/anaconda3/chromedrive
 nav.maximize_window()
 
 # importar/visualizar a base de dados
-tabela_produtos = pd.read_excel("/Users/thiarly/Library/CloudStorage/GoogleDrive-thiarly.cavalcante@gmail.com/My Drive/PROJECTS/Impressionador-Python-Course/35 - Automação Web - Aplicação de Mercado ao Trabalho/Projeto 2 - Google Shopping e Buscape/buscas.xlsx")
+tabela_produtos = pd.read_excel("/Users/thiarly/Desktop/GitHub/busca-produtos-googlebuscape/buscas.xlsx")
 print(tabela_produtos)
 
 # Variáveis
@@ -190,7 +190,7 @@ print(tabela_ofertas)
 
 
 # EXPORTANDO TABELA PARA EXCEL
-tabela_ofertas.to_excel('Projeto 2 - Google Shopping e Buscape/PYofertas.xlsx', index=False)
+tabela_ofertas.to_excel('/Users/thiarly/Desktop/GitHub/busca-produtos-googlebuscape/PYofertas.xlsx', index=False)
 
 
 # ENVIANDO A PLANILHA POR EMAIL
@@ -205,7 +205,7 @@ if len(tabela_ofertas.index) > 0:
     servidor_smtp = 'smtp.office365.com'
     porta = 587
     seu_email = 'thiarly.cavalcante@live.com'
-    sua_senha = 'XXXXXXXXXXXXXXXXXXXXXXXXXXX'
+    sua_senha = 'XXXXXXXXXXXXXXXXX'
 
     # Criando o objeto MIMEMultipart para enviar o e-mail
     msg = MIMEMultipart()
